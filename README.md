@@ -1,2 +1,2 @@
 # elegance-junior-fullstack-developer-section3
-## * ได้ทำการ comment ไว้เพื่ออธิบาย
+## * ได้ทำการ comment ไว้ในแต่ละบรรทัดเพื่ออธิบาย
